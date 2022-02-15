@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyCitizenComplaint</string>
+    <string name="complaint_infos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel tincidunt arcu.</string>
+    <string name="complaint_comment_description">Écrivez quelques mots sur l\'incident …</string>
+    <string name="comment_lbl">Pouvez-vous décrire l\'incident ?</string>
+</resources>
